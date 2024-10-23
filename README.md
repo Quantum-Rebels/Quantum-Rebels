@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="[https://github.com/Crash-Night/QuantumRebels/blob/main/Logo.png](https://raw.githubusercontent.com/Quantum-Rebels/Quantum-Rebels/refs/heads/main/Quantum-Rebels-Logo.png)" alt="Logo Oficial de Quantum Rebels">
+  <img src="https://raw.githubusercontent.com/Quantum-Rebels/Quantum-Rebels/refs/heads/main/Quantum-Rebels-Logo.png" alt="Logo Oficial de Quantum Rebels">
 </p>
 
 <h2 align="center">Descripción</h2>
@@ -32,7 +32,7 @@ Si compartes nuestra visión y quieres unirte a nuestra causa, contáctanos a tr
 <h2 align="center">Contacto</h2>
 <div align="center">
   <ul>
-    <li><b>Email:</b> <b>(No Disponible)</b></li>
+    <li><b>Email:</b> <b>Crash.Night.official@protonmail.com</b></li>
     <li><b>Telegram:</b> <b>t.me/Crash_Night</b></li>
   </ul>
 </div>
